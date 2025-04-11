@@ -1,4 +1,4 @@
-## Hi there 👋 I am Tharindu Nimsara.
+## Hi there 👋 I am Tharindu Nimsara. A tech explorer...
 
 <!--
 **Tharindu-Nimsara/Tharindu-Nimsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
