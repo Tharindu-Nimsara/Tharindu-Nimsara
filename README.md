@@ -30,12 +30,9 @@
 ### ⚡ What I Work With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,nodejs,express,nextjs,python,mongodb,postgres,mysql,redis,docker,linux,tensorflow,vercel,supabase,vscode,git,github,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,nodejs,express,nextjs,python,mongodb,postgres,mysql,redis,docker,linux,tensorflow,vercel,supabase,vscode,git,github,figma,tailwind,postman" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
 
 ---
 
