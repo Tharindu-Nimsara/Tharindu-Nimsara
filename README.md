@@ -5,8 +5,8 @@
 - 🏢 **Volunteer:** IEEE Student Branch | Webmaster at IEEE YP Sri Lanka
 - 🛠️ **Current Focus:** Fullstack Development | Embedded AI
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharindu-Nimsara&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharindu-Nimsara&layout=compact&theme=radical)
 
 ### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
