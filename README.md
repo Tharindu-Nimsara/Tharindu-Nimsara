@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tharindunimsara42@gmail.com">
+  <a href="mailto:tharindunimsara42@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/tharindu-nimsara-waidyathilake">
+  <a href="https://www.linkedin.com/in/tharindu-nimsara-waidyathilake" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://your-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
