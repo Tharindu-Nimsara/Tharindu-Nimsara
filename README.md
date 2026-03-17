@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/tharindu-nimsara-waidyathilake" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.com](https://tharindunimsara.netlify.app/" target="_blank">
+  <a href="https://tharindunimsara.netlify.app/" >
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
