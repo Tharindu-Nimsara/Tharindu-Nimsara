@@ -51,6 +51,6 @@
 ### 🧠 Currently Exploring
 - 🤖 AI-powered applications  
 - ⚙️ Backend architecture & APIs  
-- ☁️ Cloud + DevOps work flows  
+- ☁️ Cloud + DevOps workflows  
 
 ---
