@@ -30,7 +30,7 @@
 ### ⚡ Technologies I Work With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,nodejs,express,nextjs,python,mongodb,postgres,mysql,redis,docker,linux,tensorflow,vercel,supabase,vscode,git,github,figma,tailwind,postman" />
+  <img src="https://skillicons.dev/icons?i=java, react,html,css,js,ts,nodejs,express,nextjs,python,mongodb,postgres,mysql,redis,docker,linux,tensorflow,vercel,supabase,vscode,git,github,figma,tailwind,postman" />
 </div>
 
 
