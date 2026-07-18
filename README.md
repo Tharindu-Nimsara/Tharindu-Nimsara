@@ -21,7 +21,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Computer Science Undergraduate @ University of Sri Jayewardenepura  
-- 🏢 Cheif Editor @ ACS USJ | Webmaster @ AI DRIVEN Sri Lanka (IEEE YP SL) 
+- 🏢 Former Cheif Editor @ ACS USJ | Webmaster @ AI DRIVEN Sri Lanka (IEEE YP SL) 
 - 🚀 Building scalable fullstack apps & exploring embedded AI  
 - 🌱 Currently learning advanced backend systems & cloud  
 
